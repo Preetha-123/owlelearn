@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding: 0;
     text-align: center;
-    background: linear-gradient(rgba(0,0,150,0.5),rgba(0,0,50,0.5)),url(./image/blue.jpg);
+    background: url(./image/li7.jpg);
     background-size: cover;
     font-family: sans-serif;
 }
@@ -15,27 +15,31 @@ body{
 .title h1{
     font-size: 32px;
     line-height: 10px;
+
 }
 
 .title h2{
     font-size: 16px;
+
 }
 
 form{
     margin-top: 50px;
+    color: bisque;
 }
 .form-control{
 width: 600px;
 background: transparent;
 border: none;
 outline: none;
-border-bottom: 1px solid grey;
+border-bottom: 1px solid #fff;
 color: #fff;
 font-size: 18px;
 margin-bottom: 16px;
 }
 input{
     height: 45px;
+    color: #fff;
 }
 form .submit{
     background-color: #ff5722;

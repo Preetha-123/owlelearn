@@ -9,7 +9,7 @@ html{
     font-size: 10px;
 }
 body{
-    background: url(./image/abo.jpg);
+    background: url(./image/pink1.PNG);
     background-position: 0 1000px;
     font-family: Roboto, sans-serif;
     font-size: large;
@@ -24,7 +24,7 @@ body{
     text-align: center;
 }
 h1{
-    color: #009261;
+    color: #000;
     font-size: 5rem ;
     font-weight: 700;
     letter-spacing: 8px;
@@ -32,7 +32,7 @@ h1{
 
 }
 h2{
-    color: #777;
+    color: #000;
     font-size: 4rem;
     font-weight: 400;
 }
@@ -43,8 +43,9 @@ h2{
 }
 
 p{
+    
     font-size: 2rem;
-    color: #fff;
+    color: #000;
     line-height: 5rem;
     margin-bottom: 5rem;
 

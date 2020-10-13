@@ -27,8 +27,8 @@ height: 100%;
 .wrapper .top_navbar .logo{
     width: 250px;
     height: 100%;
-    background: #3421c0;
-    border-bottom: 1px solid #22119d;
+    background: orangered;
+    border-bottom: 1px solid #3421c0;
 }
 
 .wrapper .top_navbar .logo a{
@@ -43,12 +43,12 @@ height: 100%;
 .wrapper .top_navbar .top_menu{
     width: calc(100% - 250px);
     height: 100%;
-    background: #fff;
+    background: orchid;
     padding: 0 40px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border-bottom: 1px solid #e0e0e0;
+    border-bottom: 1px solid orangered;
 }
 
 .wrapper .top_navbar .top_menu .home_link a{
